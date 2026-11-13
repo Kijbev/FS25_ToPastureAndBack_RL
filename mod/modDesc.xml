@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="116">
+    <author>Kijbev</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>To Pasture And Back - RL</en>
+        <de>Auf Die Weide Und Zurück - RL</de>
+        <fr>Au Pâturage Et Retour - RL</fr>
+    </title>
+    <description>
+        <en><![CDATA[
+To Pasture And Back (RL Edition) takes a herd from a barn out to a field or pasture and brings it home again, with the individual animals of Realistic Livestock RM: on the pasture every animal keeps its breed, age, sex and ear tags. Feeding, breeding and production stay in the barn.
+
+Requires Realistic Livestock RM (FS25_RealisticLivestockRM). The plain To Pasture And Back switches itself off while Realistic Livestock RM is loaded, so only this edition runs.
+
+FEATURES:
+- Right Ctrl + J picks up the herd at a barn, or a herd out on a field on the farmland you are standing on, to move it to another field.
+- Right Ctrl + G drops the herd on the field you are standing on.
+- Several herds can be picked up and dropped one per key press, on one field or on several fields. Pigs are never picked up together with other species.
+- Each species goes only on ground that suits it: cows, horses and alpacas on standing grass, sheep and goats on grass of any height, pigs on mowed fields, stubble, fallow, plowed or cultivated ground. Growing crops are off limits for all of them.
+- Animals too young to leave stay in the barn while the rest of the herd is out.
+- A field without a fence gets a decorative temporary fence with no collision, which can be switched off.
+- Right Ctrl + K brings home the herd on the farmland you are standing on, or every herd of your farm when you are elsewhere. By default a second press confirms it.
+- Right Ctrl + N cancels the pickup, and every herd you are transporting goes back to where it came from.
+- Right Ctrl + L shows which herds are out and where.
+- An optional curfew brings every herd home at 10 PM. An optional reminder at 6 PM says when herds are still out.
+- Each player sets how many birds a chicken coop shows, up to Realistic Livestock RM's own number of visible animals.
+- Settings for message size, color, background and position, and the warning style.
+- Right Ctrl + F12 opens the Kijbev help panel with the keys of every active Kijbev mod.
+- Herd messages show to the players of the barn's farm.
+
+Herds out on a field: cows, water buffalo, sheep, goats, pigs, horses and alpacas.
+
+Made for Realistic Livestock RM, a mod by Ritter.
+
+This mod is free software under the GNU General Public License v3.0 or later (GPL v3). Source code: https://github.com/Kijbev/FS25_ToPastureAndBack_RL
+]]></en>
+        <de><![CDATA[
+To Pasture And Back (RL Edition) bringt eine Herde vom Stall auf ein Feld oder eine Weide und wieder nach Hause, mit den einzelnen Tieren von Realistic Livestock RM: Auf der Weide behält jedes Tier seine Rasse, sein Alter, sein Geschlecht und seine Ohrmarken. Fütterung, Zucht und Produktion bleiben im Stall.
+
+Benötigt Realistic Livestock RM (FS25_RealisticLivestockRM). Das normale To Pasture And Back schaltet sich ab, solange Realistic Livestock RM geladen ist, sodass nur diese Edition läuft.
+
+FUNKTIONEN:
+- Rechte Strg + J sammelt die Herde an einem Stall ein, oder die Herde auf dem Feld, auf dem du stehst, um sie auf ein anderes Feld zu verlegen.
+- Rechte Strg + G setzt die Herde auf dem Feld ab, auf dem du stehst.
+- Mehrere Herden lassen sich einsammeln und einzeln pro Tastendruck absetzen, auf einem Feld oder auf mehreren Feldern. Schweine werden nie zusammen mit anderen Tierarten eingesammelt.
+- Jede Tierart kommt nur auf Boden, der zu ihr passt: Kühe, Pferde und Alpakas auf stehendes Gras, Schafe und Ziegen auf Gras jeder Höhe, Schweine auf gemähte Felder, Stoppelfelder, Brachland, gepflügten oder gegrubberten Boden. Wachsende Feldfrüchte sind für alle Tierarten tabu.
+- Tiere, die zu jung sind, um den Stall zu verlassen, bleiben im Stall, während der Rest der Herde draußen ist.
+- Ein Feld ohne Zaun bekommt einen dekorativen temporären Zaun ohne Kollision, der sich ausschalten lässt.
+- Rechte Strg + K holt die Herde auf dem Feld, auf dem du stehst, nach Hause, oder alle Herden deines Hofs, wenn du woanders bist. Standardmäßig bestätigt ein zweiter Tastendruck den Rückruf.
+- Rechte Strg + N bricht das Einsammeln ab, und jede Herde, die du mitführst, kehrt dorthin zurück, wo sie herkam.
+- Rechte Strg + L zeigt, welche Herden draußen sind und wo.
+- Ein optionaler Heimruf holt um 22 Uhr alle Herden nach Hause. Eine optionale Abenderinnerung um 18 Uhr meldet, wenn noch Herden draußen sind.
+- Jeder Spieler stellt ein, wie viele Vögel ein Hühnerstall zeigt, bis zur Zahl sichtbarer Tiere von Realistic Livestock RM.
+- Einstellungen für Größe, Farbe, Hintergrund und Position der Meldungen und den Warnungsstil.
+- Rechte Strg + F12 öffnet das Kijbev-Hilfe-Fenster mit den Tasten aller aktiven Kijbev-Mods.
+- Herdenmeldungen erscheinen bei den Spielern des Hofs, zu dem der Stall gehört.
+
+Herden auf dem Feld: Kühe, Wasserbüffel, Schafe, Ziegen, Schweine, Pferde und Alpakas.
+
+Gemacht für Realistic Livestock RM, einen Mod von Ritter.
+
+Dieser Mod ist freie Software unter der GNU General Public License v3.0 oder später (GPL v3). Quellcode: https://github.com/Kijbev/FS25_ToPastureAndBack_RL
+]]></de>
+        <fr><![CDATA[
+To Pasture And Back (RL Edition) emmène un troupeau d'une étable vers un champ ou un pâturage, puis le ramène à la ferme, avec les animaux individuels de Realistic Livestock RM : au pâturage, chaque animal garde sa race, son âge, son sexe et ses boucles auriculaires. L'alimentation, la reproduction et la production restent dans l'étable.
+
+Nécessite Realistic Livestock RM (FS25_RealisticLivestockRM). Le To Pasture And Back classique se désactive tant que Realistic Livestock RM est chargé, pour que seule cette édition fonctionne.
+
+FONCTIONNALITÉS :
+- Ctrl droit + J récupère le troupeau d'une étable, ou un troupeau sorti sur un champ de la parcelle où vous vous trouvez, pour le déplacer vers un autre champ.
+- Ctrl droit + G dépose le troupeau sur le champ où vous vous trouvez.
+- Plusieurs troupeaux peuvent être récupérés et déposés un par pression de touche, sur un même champ ou sur plusieurs champs. Les cochons ne sont jamais récupérés avec d'autres espèces.
+- Chaque espèce ne va que sur un terrain qui lui convient : vaches, chevaux et alpagas sur l'herbe sur pied, moutons et chèvres sur l'herbe de toute hauteur, cochons sur les champs fauchés, les chaumes, les jachères, les terres labourées ou travaillées au cultivateur. Les cultures en croissance sont interdites à toutes les espèces.
+- Les animaux trop jeunes pour sortir restent à l'étable pendant que le reste du troupeau est dehors.
+- Un champ sans clôture reçoit une clôture temporaire décorative sans collision, qui peut être désactivée.
+- Ctrl droit + K ramène le troupeau de la parcelle où vous vous trouvez, ou tous les troupeaux de votre ferme quand vous êtes ailleurs. Par défaut, une seconde pression confirme le rappel.
+- Ctrl droit + N annule la récupération, et chaque troupeau que vous transportez retourne d'où il vient.
+- Ctrl droit + L indique quels troupeaux sont dehors et où.
+- Un couvre-feu en option ramène tous les troupeaux à 22 h. Un rappel du soir en option signale à 18 h que des troupeaux sont encore dehors.
+- Chaque joueur règle le nombre d'oiseaux affichés dans un poulailler, jusqu'au nombre d'animaux visibles de Realistic Livestock RM.
+- Réglages pour la taille, la couleur, le fond et la position des messages, et le style des avertissements.
+- Ctrl droit + F12 ouvre le panneau d'aide Kijbev avec les touches de tous les mods Kijbev actifs.
+- Les messages des troupeaux s'affichent pour les joueurs de la ferme à laquelle appartient l'étable.
+
+Troupeaux au champ : vaches, buffles d'eau, moutons, chèvres, cochons, chevaux et alpagas.
+
+Conçu pour Realistic Livestock RM, un mod de Ritter.
+
+Ce mod est un logiciel libre sous licence GNU General Public License v3.0 ou ultérieure (GPL v3). Code source : https://github.com/Kijbev/FS25_ToPastureAndBack_RL
+]]></fr>
+    </description>
+    <iconFilename>icon_ToPastureAndBack_RL.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <dependencies>
+        <dependency>FS25_RealisticLivestockRM</dependency>
+    </dependencies>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/lib/KijbevMessages.lua"/>
+        <sourceFile filename="scripts/lib/KijbevHelp.lua"/>
+        <sourceFile filename="scripts/SendToPastureEvent.lua"/>
+        <sourceFile filename="scripts/RecallFromPastureEvent.lua"/>
+        <sourceFile filename="scripts/RemovePasturePointEvent.lua"/>
+        <sourceFile filename="scripts/SyncRequestEvent.lua"/>
+        <sourceFile filename="scripts/PendingBarnLockEvent.lua"/>
+        <sourceFile filename="scripts/ToPastureAndBack_RL.lua"/>
+    </extraSourceFiles>
+
+    <l10n filenamePrefix="i18n/locale"/>
+
+    <actions>
+        <action name="TPABRL_COLLECT_HERD" axisType="HALF" />
+        <action name="TPABRL_CONFIRM_PASTURE" axisType="HALF" />
+        <action name="TPABRL_RECALL" axisType="HALF" />
+        <action name="TPABRL_STATUS" axisType="HALF" />
+        <action name="TPABRL_CANCEL" axisType="HALF" />
+        <action name="KJHELP_TPABRL" axisType="HALF" />
+    </actions>
+    <inputBinding>
+        <actionBinding action="TPABRL_COLLECT_HERD">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_j" />
+        </actionBinding>
+        <actionBinding action="TPABRL_CONFIRM_PASTURE">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_g" />
+        </actionBinding>
+        <actionBinding action="TPABRL_RECALL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_k" />
+        </actionBinding>
+        <actionBinding action="TPABRL_STATUS">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_l" />
+        </actionBinding>
+        <actionBinding action="TPABRL_CANCEL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_n" />
+        </actionBinding>
+        <actionBinding action="KJHELP_TPABRL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_f12" />
+        </actionBinding>
+    </inputBinding>
+</modDesc>

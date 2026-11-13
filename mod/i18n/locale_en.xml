@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<l10n>
+    <texts>
+        <text name="input_TPABRL_COLLECT_HERD" text="Collect Herd from Barn or Field" />
+        <text name="input_TPABRL_CONFIRM_PASTURE" text="Confirm Pasture Destination" />
+        <text name="input_TPABRL_RECALL" text="Recall Herd(s)" />
+        <text name="input_TPABRL_STATUS" text="Show Herd Status" />
+        <text name="input_TPABRL_CANCEL" text="Cancel Pending Pasture Run" />
+        <text name="tpab_species_cow" text="cows" />
+        <text name="tpab_species_pig" text="pigs" />
+        <text name="tpab_species_sheep" text="sheep" />
+        <text name="tpab_species_goat" text="goats" />
+        <text name="tpab_species_horse" text="horses" />
+        <text name="tpab_species_alpaca" text="alpacas" />
+        <text name="tpab_species_buffalo" text="water buffalos" />
+        <text name="tpab_species_herd" text="animals" />
+        <text name="tpab_species_flock" text="mixed herd" />
+        <text name="tpab_species_mixed" text="mixed herd" />
+        <text name="tpab_pasture_invalid" text="Walk a few steps into the field before you drop off your %s." />
+        <text name="tpab_settings_header" text="To Pasture and Back" />
+        <text name="tpab_dusk_reminder_single" text="%s %s from %s %s still out%s. Evening is approaching." />
+        <text name="tpab_dusk_reminder_multi" text="%d herds are still out on pasture. Evening is approaching." />
+        <text name="tpab_settings_action_msgs_label" text="Action messages" />
+        <text name="tpab_settings_action_msgs_tooltip" text="Show on-screen confirmations when you send, recall, or cancel a herd. Curfew announcements and errors are always shown." />
+        <text name="tpab_settings_action_msgs_on" text="On" />
+        <text name="tpab_settings_action_msgs_off" text="Off" />
+        <text name="tpab_settings_dusk_reminder_label" text="Dusk reminder" />
+        <text name="tpab_settings_dusk_reminder_tooltip" text="Notify at %s game time if any herd is still on pasture. The %s curfew still applies to any herds still out at that time." />
+        <text name="tpab_settings_dusk_reminder_on" text="On" />
+        <text name="tpab_settings_dusk_reminder_off" text="Off" />
+        <text name="tpab_settings_msg_size_label" text="Message size" />
+        <text name="tpab_settings_msg_size_tooltip" text="Size of on-screen notification messages from To Pasture and Back." />
+        <text name="tpab_settings_msg_size_small" text="Small" />
+        <text name="tpab_settings_msg_size_medium" text="Medium" />
+        <text name="tpab_settings_msg_size_large" text="Large" />
+        <text name="tpab_settings_msg_color_label" text="Message color" />
+        <text name="tpab_settings_msg_color_tooltip" text="Color of on-screen notification messages from To Pasture and Back." />
+        <text name="tpab_settings_msg_color_orange" text="Orange" />
+        <text name="tpab_settings_msg_color_white" text="White" />
+        <text name="tpab_settings_msg_color_yellow" text="Yellow" />
+        <text name="tpab_settings_msg_color_green" text="Green" />
+        <text name="tpab_settings_msg_color_cyan" text="Cyan" />
+        <text name="tpab_settings_msg_color_blue" text="Blue" />
+        <text name="tpab_settings_msg_color_purple" text="Purple" />
+        <text name="tpab_settings_msg_color_pink" text="Pink" />
+        <text name="tpab_settings_msg_position_label" text="Message position" />
+        <text name="tpab_settings_msg_position_tooltip" text="Where on-screen messages from To Pasture and Back appear." />
+        <text name="tpab_settings_msg_position_lower" text="Lower third" />
+        <text name="tpab_settings_msg_position_middle" text="Middle" />
+        <text name="tpab_settings_msg_position_top" text="Top" />
+        <text name="tpab_settings_msg_bg_label" text="Message background" />
+        <text name="tpab_settings_msg_bg_tooltip" text="Draws a box behind the messages for readability. Pair a light text color with a dark background." />
+        <text name="tpab_settings_msg_bg_off" text="Off" />
+        <text name="tpab_settings_msg_bg_dark" text="Dark (transparent)" />
+        <text name="tpab_settings_msg_bg_opaque" text="Dark (opaque)" />
+        <text name="tpab_settings_msg_bg_rose" text="Rose" />
+        <text name="tpab_settings_msg_bg_purple" text="Purple" />
+        <text name="tpab_settings_msg_bg_blue" text="Blue" />
+        <text name="tpab_settings_msg_bg_teal" text="Teal" />
+        <text name="tpab_settings_warn_style_label" text="Warning style" />
+        <text name="tpab_settings_warn_style_tooltip" text="How refusals are shown, such as the note when you try to collect a herd too far from a barn. Same as messages: your message size, color, background and position. FS25 default: the game's own warning display, which your message settings do not change." />
+        <text name="tpab_settings_warn_style_same" text="Same as messages" />
+        <text name="tpab_settings_warn_style_game" text="FS25 default" />
+        <text name="tpab_settings_curfew_label" text="Curfew at %s" />
+        <text name="tpab_settings_curfew_tooltip" text="When enabled, all animals still out on pasture are automatically recalled at %s game time. A safety net for forgotten herds." />
+        <text name="tpab_settings_curfew_off" text="Off" />
+        <text name="tpab_settings_curfew_on" text="On" />
+        <text name="tpab_curfew_recall_msg" text="The herdsman has returned all animals from pasture for the night." />
+        <text name="tpab_settings_fences_label" text="Show pasture fences" />
+        <text name="tpab_settings_fences_tooltip" text="Show temporary fences around pasture areas. Visual only, does not affect the herds. Skipped automatically when the area already has its own fence." />
+        <text name="tpab_settings_fences_on" text="On" />
+        <text name="tpab_settings_fences_off" text="Off" />
+        <text name="tpab_settings_poultry_label" text="Poultry shown" />
+        <text name="tpab_settings_poultry_tooltip" text="How many birds a coop shows. &quot;Same as herd animals&quot; follows Realistic Livestock RM&apos;s visible animals setting, and a number above that setting shows Realistic Livestock RM&apos;s number. Showing fewer birds changes nothing else: the coop keeps all its animals." />
+        <text name="tpab_settings_poultry_same" text="Same as herd animals" />
+        <text name="tpab_young_kept" text="%d young animals remained in %s, too young to leave the barn." />
+        <text name="tpab_young_kept_one" text="%d young animal remained in %s, too young to leave the barn." />
+        <text name="tpab_not_grass_field" text="This is not a grass field. Find a pasture with growing grass for your %s." />
+        <text name="tpab_growing_crop" text="There are crops growing here. Your %s would destroy them. Find a grass field or pasture." />
+        <text name="tpab_field_mowed" text="This field has been mowed. Find one with growing grass for your %s." />
+        <text name="tpab_just_planted" text="This pasture was just planted. Let the grass grow before bringing your %s here." />
+        <text name="tpab_nothing_growing" text="There's nothing growing here. Find a pasture for your %s." />
+        <text name="tpab_pig_move_prompt" text="Move your %s from %s to a mowed field or stubble. Go there and press %s." />
+        <text name="tpab_pig_now_foraging" text="Your %s from %s are now out%s." />
+        <text name="tpab_pig_no_suitable_field" text="Pigs need a mowed field, stubble, or bare ground (fallow, plowed or cultivated). Find one for them." />
+        <text name="tpab_pig_growing_crop" text="There are crops growing here. Find a harvested field or mowed pasture for the pigs." />
+        <text name="tpab_pig_dusk_single" text="Your pigs from %s are still out%s. Recall them with %s before nightfall?" />
+        <text name="tpab_pig_dusk_multi" text="%d herds are still out. Recall with %s before nightfall?" />
+        <text name="tpab_field_too_small" text="This field is too small for %d animals. Find a larger pasture." />
+        <text name="tpab_no_animals_out" text="No animals are out on pasture right now." />
+        <text name="tpab_now_grazing" text="%s %s from %s %s now out%s." />
+        <text name="tpab_dest_no_pasture_graze" text="A barn is not a destination for a pasture run, and %s has no pasture of its own.\nTo drop them off, go to a field or a pasture and press %s there.\nTo return them to their barn, first cancel with %s, then press %s." />
+        <text name="tpab_dest_no_pasture_forage" text="A barn is not a destination for a pasture run, and %s has no pasture of its own.\nTo drop them off, go to a field or a pasture and press %s there.\nTo return them to their barn, first cancel with %s, then press %s." />
+        <text name="tpab_drop_more" text="You are still transporting %d more herds. Press %s to drop the next one here, or take them to another field." />
+        <text name="tpab_drop_last" text="That was the last herd. You are no longer transporting any animals for this pasture run." />
+        <text name="tpab_recall_returned" text="%s %s%s %s back at %s." />
+        <text name="tpab_all_returned" text="All herds have returned to their barns." />
+        <text name="tpab_all_returning" text="All herds are returning to their barns." />
+        <text name="tpab_returning_to_barn" text="%s %s on {farmland} %d %s back to %s." />
+        <text name="tpab_returning_home" text="%s %s on %s %s home." />
+        <text name="tpab_pasture_cancelled" text="Pasture run canceled." />
+        <text name="tpab_no_pending_to_cancel" text="No pending pasture run to cancel. Use %s to recall a herd that's already on pasture." />
+        <text name="tpab_moving_msg" text="Moving %s %s from %s to pasture. Go to a field and press %s." />
+        <text name="tpab_already_grazing_farmland" text="%s %s from %s %s already out on {farmland} %d." />
+        <text name="tpab_already_foraging_farmland" text="%s %s from %s %s already out on {farmland} %d." />
+        <text name="tpab_too_young" text="The animals in %s are too young to leave the barn. They need to stay sheltered until they're older." />
+        <text name="tpab_move_prompt" text="Move %s %s from %s to a grass field or pasture. Go there and press %s." />
+        <text name="tpab_not_near_barn" text="You are not near any barn or active pasture. Go within %dm of a barn to collect a herd, or onto the farmland where a herd is out to move it." />
+        <text name="tpab_no_barn_on_map" text="No animal barn found on this map." />
+        <text name="tpab_someone_else_field" text="You can only take herds onto your own land. Buy the land or go to a field you already own." />
+        <text name="tpab_barn_no_animals" text="%s has no animals." />
+        <text name="tpab_no_pending_grazing" text="Go to a barn and press %s to collect a herd first." />
+        <text name="tpab_already_on_pasture" text="%s %s from %s %s already on pasture." />
+        <text name="tpab_already_foraging" text="%s %s from %s %s already out." />
+        <text name="tpab_status_entry" text="%s %s from %s %s %s%s" />
+        <text name="tpab_place_at_farmland" text="at %s on {farmland} %d" />
+        <text name="tpab_place_at" text="at %s" />
+        <text name="tpab_place_farmland" text="on {farmland} %d" />
+        <text name="tpab_status_on_pasture" text="on pasture" />
+        <text name="tpab_status_on_field" text="out on the field" />
+        <text name="tpab_status_pending_line" text="%d %s from %s" />
+        <text name="tpab_rl_missing" text="To Pasture and Back (RL Edition) needs Realistic Livestock RM. Install and activate FS25_RealisticLivestockRM." />
+        <text name="tpab_init_pending" text="Animal status is still syncing, please wait." />
+        <text name="tpab_class_mismatch" text="Pigs and other animals can't be picked up together. Take your %s to a field and press %s, or press %s to cancel." />
+        <text name="tpab_mixed_move_prompt" text="Take your mixed herd to a field and press %s." />
+        <text name="tpab_mixed_now_grazing" text="Your mixed herd is now out%s." />
+        <text name="tpab_additional_added" text="Additional animals added." />
+        <text name="tpab_already_collected" text="Already have a herd from %s in the queue." />
+            <text name="tpab_move_pickup" text="%s from %s picked up from pasture. Press %s at a new field to relocate." />
+            <text name="tpab_barn_locked_other" text="The herd from %s has already been picked up by %s." />
+            <text name="tpab_move_pickup_mixed" text="%s from %s picked up from pasture. Take your mixed herd to a new field and press %s." />
+        <text name="tpab_move_no_barn" text="Cannot move herd: source barn data missing." />
+        <text name="tpab_move_no_cache" text="Cannot move herd: source barn no longer cached." />
+        <text name="tpab_sync_complete" text="%d herds on pasture. Press %s for details." />
+        <text name="tpab_status_transporting" text="You&apos;re transporting %d herds. Move them to a grass field or pasture. Go there, and press %s." />
+        <text name="tpab_status_transporting_forage" text="You&apos;re transporting %d herds. Move them to a mowed field or stubble. Go there, and press %s." />
+        <text name="tpab_pocketed_reminder" text="You are still transporting %d herds. Drop them at a field or cancel to return them." />
+        <text name="tpab_drop_more_one" text="You are still transporting %d more herd. Press %s to drop it here, or take it to another field." />
+            <text name="tpab_sync_complete_one" text="%d herd on pasture. Press %s for details." />
+            <text name="tpab_status_transporting_one" text="You&apos;re transporting %d herd. Move it to a grass field or pasture. Go there, and press %s." />
+            <text name="tpab_status_transporting_forage_one" text="You&apos;re transporting %d herd. Move it to a mowed field or stubble. Go there, and press %s." />
+            <text name="tpab_pocketed_reminder_one" text="You are still transporting %d herd. Drop it at a field or cancel to return it." />
+            <text name="tpab_status_herds_out" text="%d herds out:" />
+            <text name="tpab_status_herds_out_one" text="%d herd out:" />
+            <text name="tpab_herd_out_elsewhere" text="The herd from %s is out on {farmland} %d. Go there to move it." />
+            <text name="tpab_herd_out_elsewhere_nf" text="The herd from %s is out on another pasture. Go there to move it." />
+        <text name="tpab_settings_confirm_label" text="Confirm before recalling" />
+        <text name="tpab_settings_confirm_tooltip" text="Asks for a second press of the recall key before herds come home. The first press says which herds would come home and gives you time to read it and press again, at least 5 seconds." />
+        <text name="tpab_settings_confirm_off" text="Off" />
+        <text name="tpab_settings_confirm_on" text="On" />
+        <text name="tpab_recall_confirm_one" text="Press %s again within %d s to bring the herd from %s home." />
+        <text name="tpab_recall_confirm_all" text="Press %s again within %d s to bring all %d herds home." />
+        <text name="input_KJHELP_TPABRL" text="Kijbev mods help panel" />
+        <text name="kjhelp_title" text="Unified Kijbev Modding Help Panel" />
+        <text name="kjhelp_empty" text="No Kijbev mod keybinds found" />
+        <text name="kjhelp_subtitle" text="Keyboard shortcuts for every active Kijbev mod" />
+        <text name="kjhelp_close" text="opens/closes this panel" />
+        <text name="kjhelp_close_plain" text="Press the same key again to close this panel." />
+        <text name="kjhelp_about" text="Takes a herd from a barn out to a field or pasture and brings it home again, with Realistic Livestock RM&apos;s individual animals." />
+        <text name="tpab_no_animals_out_but" text="No animals are out on pasture right now, but %s is currently transporting %d herds." />
+        <text name="tpab_no_animals_out_but_one" text="No animals are out on pasture right now, but %s is currently transporting %d herd." />
+        <text name="tpab_others_transporting" text="%s is currently transporting %d herds." />
+        <text name="tpab_others_transporting_one" text="%s is currently transporting %d herd." />
+    </texts>
+</l10n>

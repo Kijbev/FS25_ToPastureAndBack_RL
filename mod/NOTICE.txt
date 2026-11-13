@@ -1,0 +1,14 @@
+To Pasture And Back (RL Edition), FS25_ToPastureAndBack_RL
+Copyright (C) 2026 Kijbev
+
+This program is free software: you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version. See the LICENSE file shipped with this mod.
+
+The license covers every file in this mod, including the shared libraries in scripts/lib
+(KijbevHelp.lua, KijbevMessages.lua), which carry no header of their own because the same files
+ship unchanged in other Kijbev mods.
+
+Built for Realistic Livestock RM by Ritter (FS25_RealisticLivestockRM), which this mod requires.
+
+Source code: https://github.com/Kijbev/FS25_ToPastureAndBack_RL

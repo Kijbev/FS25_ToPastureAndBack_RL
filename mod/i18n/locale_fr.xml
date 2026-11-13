@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<l10n>
+    <texts>
+        <text name="input_TPABRL_COLLECT_HERD" text="Rassembler le troupeau à l&apos;étable ou au champ" />
+        <text name="input_TPABRL_CONFIRM_PASTURE" text="Confirmer le pâturage" />
+        <text name="input_TPABRL_RECALL" text="Rappeler le(s) troupeau(x)" />
+        <text name="input_TPABRL_STATUS" text="Afficher le statut des troupeaux" />
+        <text name="input_TPABRL_CANCEL" text="Annuler une sortie au pâturage en attente" />
+        <text name="tpab_species_cow" text="vaches" />
+        <text name="tpab_species_pig" text="cochons" />
+        <text name="tpab_species_sheep" text="moutons" />
+        <text name="tpab_species_goat" text="chèvres" />
+        <text name="tpab_species_horse" text="chevaux" />
+        <text name="tpab_species_alpaca" text="alpagas" />
+        <text name="tpab_species_buffalo" text="buffles d'eau" />
+        <text name="tpab_species_herd" text="animaux" />
+        <text name="tpab_species_flock" text="troupeau mixte" />
+        <text name="tpab_species_mixed" text="troupeau mixte" />
+        <text name="tpab_pasture_invalid" text="Avancez de quelques pas dans le champ avant d'y laisser vos %s." />
+        <text name="tpab_settings_header" text="To Pasture and Back" />
+        <text name="tpab_dusk_reminder_single" text="%s %s de %s %s encore dehors%s. Le soir approche." />
+        <text name="tpab_dusk_reminder_multi" text="%d troupeaux sont encore au pâturage. Le soir approche." />
+        <text name="tpab_settings_action_msgs_label" text="Messages d'action" />
+        <text name="tpab_settings_action_msgs_tooltip" text="Afficher les confirmations à l'écran lors de l'envoi, du rappel ou de l'annulation d'un troupeau. Les annonces de couvre-feu et les erreurs sont toujours affichées." />
+        <text name="tpab_settings_action_msgs_on" text="Activé" />
+        <text name="tpab_settings_action_msgs_off" text="Désactivé" />
+        <text name="tpab_settings_dusk_reminder_label" text="Rappel du soir" />
+        <text name="tpab_settings_dusk_reminder_tooltip" text="Avertir à %s en jeu si un troupeau est encore au pâturage. Le couvre-feu à %s s'applique toujours aux troupeaux encore dehors à cette heure." />
+        <text name="tpab_settings_dusk_reminder_on" text="Activé" />
+        <text name="tpab_settings_dusk_reminder_off" text="Désactivé" />
+        <text name="tpab_settings_msg_size_label" text="Taille des messages" />
+        <text name="tpab_settings_msg_size_tooltip" text="Taille des messages de notification de To Pasture and Back." />
+        <text name="tpab_settings_msg_size_small" text="Petit" />
+        <text name="tpab_settings_msg_size_medium" text="Moyen" />
+        <text name="tpab_settings_msg_size_large" text="Grand" />
+        <text name="tpab_settings_msg_color_label" text="Couleur des messages" />
+        <text name="tpab_settings_msg_color_tooltip" text="Couleur des messages de notification de To Pasture and Back." />
+        <text name="tpab_settings_msg_color_orange" text="Orange" />
+        <text name="tpab_settings_msg_color_white" text="Blanc" />
+        <text name="tpab_settings_msg_color_yellow" text="Jaune" />
+        <text name="tpab_settings_msg_color_green" text="Vert" />
+        <text name="tpab_settings_msg_color_cyan" text="Cyan" />
+        <text name="tpab_settings_msg_color_blue" text="Bleu" />
+        <text name="tpab_settings_msg_color_purple" text="Violet" />
+        <text name="tpab_settings_msg_color_pink" text="Rose" />
+        <text name="tpab_settings_msg_position_label" text="Position des messages" />
+        <text name="tpab_settings_msg_position_tooltip" text="Où les messages de To Pasture and Back apparaissent à l'écran." />
+        <text name="tpab_settings_msg_position_lower" text="Tiers inférieur" />
+        <text name="tpab_settings_msg_position_middle" text="Milieu" />
+        <text name="tpab_settings_msg_position_top" text="Haut" />
+        <text name="tpab_settings_msg_bg_label" text="Fond des messages" />
+        <text name="tpab_settings_msg_bg_tooltip" text="Affiche une boîte derrière les messages pour la lisibilité. Associez une couleur de texte claire à un fond sombre." />
+        <text name="tpab_settings_msg_bg_off" text="Désactivé" />
+        <text name="tpab_settings_msg_bg_dark" text="Sombre (transparent)" />
+        <text name="tpab_settings_msg_bg_opaque" text="Sombre (opaque)" />
+        <text name="tpab_settings_msg_bg_rose" text="Rose" />
+        <text name="tpab_settings_msg_bg_purple" text="Violet" />
+        <text name="tpab_settings_msg_bg_blue" text="Bleu" />
+        <text name="tpab_settings_msg_bg_teal" text="Bleu-vert" />
+        <text name="tpab_settings_warn_style_label" text="Style des avertissements" />
+        <text name="tpab_settings_warn_style_tooltip" text="Affichage des refus, par exemple la note quand vous tentez de récupérer un troupeau trop loin d'une étable. Comme les messages : vos réglages de taille, de couleur, de fond et de position. Par défaut FS25 : l'affichage d'avertissement du jeu, sans vos réglages de messages." />
+        <text name="tpab_settings_warn_style_same" text="Comme les messages" />
+        <text name="tpab_settings_warn_style_game" text="Par défaut FS25" />
+        <text name="tpab_settings_curfew_label" text="Couvre-feu à %s" />
+        <text name="tpab_settings_curfew_tooltip" text="Si activé, tous les animaux encore au pâturage sont automatiquement rappelés à %s en jeu. Un filet de sécurité pour les troupeaux oubliés." />
+        <text name="tpab_settings_curfew_off" text="Désactivé" />
+        <text name="tpab_settings_curfew_on" text="Activé" />
+        <text name="tpab_curfew_recall_msg" text="Le berger a ramené tous les animaux du pâturage pour la nuit." />
+        <text name="tpab_settings_fences_label" text="Afficher les clôtures" />
+        <text name="tpab_settings_fences_tooltip" text="Afficher les clôtures temporaires autour des pâturages. Visuel uniquement, n'affecte pas les troupeaux. Ignoré automatiquement quand la zone possède déjà sa propre clôture." />
+        <text name="tpab_settings_fences_on" text="Activé" />
+        <text name="tpab_settings_fences_off" text="Désactivé" />
+        <text name="tpab_settings_poultry_label" text="Volailles affichées" />
+        <text name="tpab_settings_poultry_tooltip" text="Nombre d'oiseaux affichés dans un poulailler. « Comme le bétail » suit le réglage d'animaux visibles de Realistic Livestock RM, et un nombre supérieur à ce réglage affiche le nombre de Realistic Livestock RM. Afficher moins d'oiseaux ne change rien d'autre : le poulailler garde tous ses animaux." />
+        <text name="tpab_settings_poultry_same" text="Comme le bétail" />
+        <text name="tpab_young_kept" text="%d jeunes animaux sont restés dans %s, trop jeunes pour sortir." />
+        <text name="tpab_young_kept_one" text="%d jeune animal est resté dans %s, trop jeune pour sortir." />
+        <text name="tpab_not_grass_field" text="Ce n'est pas un champ d'herbe. Trouvez un pâturage avec de l'herbe pour vos %s." />
+        <text name="tpab_growing_crop" text="Des cultures poussent ici. Vos %s les détruiraient. Trouvez un champ d'herbe ou un pâturage." />
+        <text name="tpab_field_mowed" text="Ce champ a été fauché. Trouvez-en un avec de l'herbe pour vos %s." />
+        <text name="tpab_just_planted" text="Ce pâturage vient d'être semé. Laissez l'herbe pousser avant d'y amener vos %s." />
+        <text name="tpab_nothing_growing" text="Rien ne pousse ici. Trouvez un pâturage pour vos %s." />
+        <text name="tpab_pig_move_prompt" text="Déplacez vos %s de %s vers un champ fauché ou un chaume. Allez-y et appuyez sur %s." />
+        <text name="tpab_pig_now_foraging" text="Vos %s de %s sont maintenant dehors%s." />
+        <text name="tpab_pig_no_suitable_field" text="Les cochons ont besoin d'un champ fauché, d'un chaume ou d'un sol nu (jachère, labouré ou cultivé). Trouvez-en un pour eux." />
+        <text name="tpab_pig_growing_crop" text="Des cultures poussent ici. Trouvez un champ récolté ou un pâturage fauché pour les cochons." />
+        <text name="tpab_pig_dusk_single" text="Vos cochons de %s sont encore dehors%s. Les rappeler avec %s avant la nuit ?" />
+        <text name="tpab_pig_dusk_multi" text="%d troupeaux sont encore dehors. Les rappeler avec %s avant la nuit ?" />
+        <text name="tpab_field_too_small" text="Ce champ est trop petit pour %d animaux. Cherchez un pâturage plus grand." />
+        <text name="tpab_no_animals_out" text="Aucun animal n'est au pâturage en ce moment." />
+        <text name="tpab_now_grazing" text="%s %s de %s %s maintenant dehors%s." />
+        <text name="tpab_dest_no_pasture_graze" text="Une étable n'est pas une destination pour une sortie au pâturage, et %s n'a pas de pâturage qui lui est propre.\nPour les laisser dehors, allez sur un champ ou un pâturage et appuyez sur %s là-bas.\nPour les renvoyer à l'étable, annulez d'abord avec %s, puis appuyez sur %s." />
+        <text name="tpab_dest_no_pasture_forage" text="Une étable n'est pas une destination pour une sortie au pâturage, et %s n'a pas de pâturage qui lui est propre.\nPour les laisser dehors, allez sur un champ ou un pâturage et appuyez sur %s là-bas.\nPour les renvoyer à l'étable, annulez d'abord avec %s, puis appuyez sur %s." />
+        <text name="tpab_drop_more" text="Vous transportez encore %d troupeaux. Appuyez sur %s pour déposer le suivant ici, ou emmenez-les vers un autre champ." />
+        <text name="tpab_drop_last" text="C'était le dernier troupeau. Vous ne transportez plus d'animaux pour cette sortie au pâturage." />
+        <text name="tpab_recall_returned" text="%s %s%s %s de retour à %s." />
+        <text name="tpab_all_returned" text="Tous les troupeaux sont rentrés dans leurs étables." />
+        <text name="tpab_all_returning" text="Tous les troupeaux rentrent dans leurs étables." />
+        <text name="tpab_returning_to_barn" text="%s %s sur {la_farmland} %d %s à %s." />
+        <text name="tpab_returning_home" text="%s %s sur %s %s à l'étable." />
+        <text name="tpab_pasture_cancelled" text="Sortie au pâturage annulée." />
+        <text name="tpab_no_pending_to_cancel" text="Aucune sortie au pâturage en attente à annuler. Utilisez %s pour rappeler un troupeau déjà au pâturage." />
+        <text name="tpab_moving_msg" text="Déplacement de %s %s de %s vers un pâturage. Allez à un champ et appuyez sur %s." />
+        <text name="tpab_already_grazing_farmland" text="%s %s de %s %s déjà dehors sur {la_farmland} %d." />
+        <text name="tpab_already_foraging_farmland" text="%s %s de %s %s déjà dehors sur {la_farmland} %d." />
+        <text name="tpab_too_young" text="Les animaux dans %s sont trop jeunes pour sortir. Ils doivent rester à l'abri jusqu'à ce qu'ils soient plus âgés." />
+        <text name="tpab_move_prompt" text="Déplacez %s %s de %s vers un champ d'herbe ou un pâturage. Allez-y et appuyez sur %s." />
+        <text name="tpab_not_near_barn" text="Vous n&apos;êtes près d&apos;aucune étable ni d&apos;un pâturage actif. Approchez-vous à moins de %dm d&apos;une étable pour rassembler un troupeau, ou rendez-vous sur la parcelle où un troupeau est dehors pour le déplacer." />
+        <text name="tpab_no_barn_on_map" text="Aucune étable trouvée sur cette carte." />
+        <text name="tpab_someone_else_field" text="Vous ne pouvez emmener des troupeaux que sur vos propres terres. Achetez le terrain ou allez sur un champ que vous possédez déjà." />
+        <text name="tpab_barn_no_animals" text="%s n'a aucun animal." />
+        <text name="tpab_no_pending_grazing" text="Allez d'abord à une étable et appuyez sur %s pour rassembler un troupeau." />
+        <text name="tpab_already_on_pasture" text="%s %s de %s %s déjà au pâturage." />
+        <text name="tpab_already_foraging" text="%s %s de %s %s déjà dehors." />
+        <text name="tpab_status_entry" text="%s %s de %s %s %s%s" />
+        <text name="tpab_place_at_farmland" text="à %s sur {la_farmland} %d" />
+        <text name="tpab_place_at" text="à %s" />
+        <text name="tpab_place_farmland" text="sur {la_farmland} %d" />
+        <text name="tpab_status_on_pasture" text="au pâturage" />
+        <text name="tpab_status_on_field" text="dehors dans le champ" />
+        <text name="tpab_status_pending_line" text="%d %s de %s" />
+        <text name="tpab_rl_missing" text="To Pasture and Back (RL Edition) nécessite Realistic Livestock RM. Installez et activez FS25_RealisticLivestockRM." />
+        <text name="tpab_init_pending" text="Statut des animaux en cours de synchronisation, patientez." />
+        <text name="tpab_class_mismatch" text="Les porcs et les autres animaux ne peuvent pas être récupérés ensemble. Amenez vos %s à un champ et appuyez sur %s, ou appuyez sur %s pour annuler." />
+        <text name="tpab_mixed_move_prompt" text="Amenez votre troupeau mixte à un champ et appuyez sur %s." />
+        <text name="tpab_mixed_now_grazing" text="Votre troupeau mixte est maintenant dehors%s." />
+        <text name="tpab_additional_added" text="Animaux supplémentaires ajoutés." />
+        <text name="tpab_already_collected" text="Un troupeau de %s est déjà dans la file." />
+            <text name="tpab_move_pickup" text="%s de %s récupérés du pâturage. Appuyez sur %s dans un nouveau champ pour les déplacer." />
+            <text name="tpab_barn_locked_other" text="Le troupeau de %s a déjà été pris par %s." />
+            <text name="tpab_move_pickup_mixed" text="%s de %s récupérés du pâturage. Amenez votre troupeau mixte sur un nouveau champ et appuyez sur %s." />
+        <text name="tpab_move_no_barn" text="Impossible de déplacer le troupeau : étable d'origine manquante." />
+        <text name="tpab_move_no_cache" text="Impossible de déplacer le troupeau : étable d'origine non mise en cache." />
+        <text name="tpab_sync_complete" text="%d troupeaux au pâturage. Appuyez sur %s pour les détails." />
+        <text name="tpab_status_transporting" text="Vous transportez %d troupeaux. Amenez-les sur un champ d&apos;herbe ou un pâturage. Allez-y et appuyez sur %s." />
+        <text name="tpab_status_transporting_forage" text="Vous transportez %d troupeaux. Amenez-les sur un champ fauché ou un chaume. Allez-y et appuyez sur %s." />
+        <text name="tpab_pocketed_reminder" text="Vous transportez encore %d troupeaux. Déposez-les sur un champ ou annulez pour les renvoyer." />
+        <text name="tpab_drop_more_one" text="Vous transportez encore %d troupeau. Appuyez sur %s pour le déposer ici, ou emmenez-le vers un autre champ." />
+            <text name="tpab_sync_complete_one" text="%d troupeau au pâturage. Appuyez sur %s pour les détails." />
+            <text name="tpab_status_transporting_one" text="Vous transportez %d troupeau. Amenez-le sur un champ d&apos;herbe ou un pâturage. Allez-y et appuyez sur %s." />
+            <text name="tpab_status_transporting_forage_one" text="Vous transportez %d troupeau. Amenez-le sur un champ fauché ou un chaume. Allez-y et appuyez sur %s." />
+            <text name="tpab_pocketed_reminder_one" text="Vous transportez encore %d troupeau. Déposez-le sur un champ ou annulez pour le renvoyer." />
+            <text name="tpab_status_herds_out" text="%d troupeaux dehors :" />
+            <text name="tpab_status_herds_out_one" text="%d troupeau dehors :" />
+            <text name="tpab_herd_out_elsewhere" text="Le troupeau de %s est dehors sur {la_farmland} %d. Allez-y pour le déplacer." />
+            <text name="tpab_herd_out_elsewhere_nf" text="Le troupeau de %s est dehors sur un autre pâturage. Allez-y pour le déplacer." />
+        <text name="tpab_settings_confirm_label" text="Confirmer avant de rappeler" />
+        <text name="tpab_settings_confirm_tooltip" text="Demande une seconde pression sur la touche de rappel avant le retour des troupeaux. La première pression indique quels troupeaux reviendraient et laisse le temps de lire et d&apos;appuyer à nouveau, au moins 5 secondes." />
+        <text name="tpab_settings_confirm_off" text="Désactivé" />
+        <text name="tpab_settings_confirm_on" text="Activé" />
+        <text name="tpab_recall_confirm_one" text="Appuyez de nouveau sur %s dans les %d s pour ramener le troupeau de %s." />
+        <text name="tpab_recall_confirm_all" text="Appuyez de nouveau sur %s dans les %d s pour ramener les %d troupeaux." />
+        <text name="input_KJHELP_TPABRL" text="Panneau d&apos;aide des mods Kijbev" />
+        <text name="kjhelp_title" text="Panneau d&apos;aide unifié de Kijbev Modding" />
+        <text name="kjhelp_empty" text="Aucun raccourci de mod Kijbev trouvé" />
+        <text name="kjhelp_subtitle" text="Raccourcis clavier pour tous les mods Kijbev actifs" />
+        <text name="kjhelp_close" text="ouvre/ferme ce panneau" />
+        <text name="kjhelp_close_plain" text="Appuyez de nouveau sur la même touche pour fermer ce panneau." />
+        <text name="kjhelp_about" text="Emmène un troupeau de l&apos;étable vers un champ ou un pâturage, puis le ramène, avec les animaux individuels de Realistic Livestock RM." />
+        <text name="tpab_no_animals_out_but" text="Aucun animal n&apos;est au pâturage en ce moment, mais %s transporte actuellement %d troupeaux." />
+        <text name="tpab_no_animals_out_but_one" text="Aucun animal n&apos;est au pâturage en ce moment, mais %s transporte actuellement %d troupeau." />
+        <text name="tpab_others_transporting" text="%s transporte actuellement %d troupeaux." />
+        <text name="tpab_others_transporting_one" text="%s transporte actuellement %d troupeau." />
+    </texts>
+</l10n>

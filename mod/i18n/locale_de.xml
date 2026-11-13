@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<l10n>
+    <texts>
+        <text name="input_TPABRL_COLLECT_HERD" text="Herde vom Stall oder Feld einsammeln" />
+        <text name="input_TPABRL_CONFIRM_PASTURE" text="Weideziel bestätigen" />
+        <text name="input_TPABRL_RECALL" text="Herde(n) zurückrufen" />
+        <text name="input_TPABRL_STATUS" text="Herdenstatus anzeigen" />
+        <text name="input_TPABRL_CANCEL" text="Ausstehenden Weidegang abbrechen" />
+        <text name="tpab_species_cow" text="Kühe" />
+        <text name="tpab_species_pig" text="Schweine" />
+        <text name="tpab_species_sheep" text="Schafe" />
+        <text name="tpab_species_goat" text="Ziegen" />
+        <text name="tpab_species_horse" text="Pferde" />
+        <text name="tpab_species_alpaca" text="Alpakas" />
+        <text name="tpab_species_buffalo" text="Wasserbüffel" />
+        <text name="tpab_species_herd" text="Tiere" />
+        <text name="tpab_species_flock" text="gemischte Herde" />
+        <text name="tpab_species_mixed" text="gemischte Herde" />
+        <text name="tpab_pasture_invalid" text="Gehe ein paar Schritte ins Feld, bevor du deine %s dort hinbringst." />
+        <text name="tpab_settings_header" text="To Pasture and Back" />
+        <text name="tpab_dusk_reminder_single" text="%s %s aus %s %s noch{draußen}%s. Der Abend naht." />
+        <text name="tpab_dusk_reminder_multi" text="%d Herden sind noch auf der Weide. Der Abend naht." />
+        <text name="tpab_settings_action_msgs_label" text="Aktionsmeldungen" />
+        <text name="tpab_settings_action_msgs_tooltip" text="Bestätigungen anzeigen, wenn du eine Herde sendest, zurückrufst oder abbrichst. Heimruf-Meldungen und Fehler werden immer angezeigt." />
+        <text name="tpab_settings_action_msgs_on" text="An" />
+        <text name="tpab_settings_action_msgs_off" text="Aus" />
+        <text name="tpab_settings_dusk_reminder_label" text="Abenderinnerung" />
+        <text name="tpab_settings_dusk_reminder_tooltip" text="Um %s Spielzeit erinnern, wenn noch Herden auf der Weide sind. Der Heimruf um %s gilt weiterhin für alle Herden, die zu diesem Zeitpunkt noch draußen sind." />
+        <text name="tpab_settings_dusk_reminder_on" text="An" />
+        <text name="tpab_settings_dusk_reminder_off" text="Aus" />
+        <text name="tpab_settings_msg_size_label" text="Meldungsgröße" />
+        <text name="tpab_settings_msg_size_tooltip" text="Größe der Bildschirmmeldungen von To Pasture and Back." />
+        <text name="tpab_settings_msg_size_small" text="Klein" />
+        <text name="tpab_settings_msg_size_medium" text="Mittel" />
+        <text name="tpab_settings_msg_size_large" text="Groß" />
+        <text name="tpab_settings_msg_color_label" text="Meldungsfarbe" />
+        <text name="tpab_settings_msg_color_tooltip" text="Farbe der Bildschirmmeldungen von To Pasture and Back." />
+        <text name="tpab_settings_msg_color_orange" text="Orange" />
+        <text name="tpab_settings_msg_color_white" text="Weiß" />
+        <text name="tpab_settings_msg_color_yellow" text="Gelb" />
+        <text name="tpab_settings_msg_color_green" text="Grün" />
+        <text name="tpab_settings_msg_color_cyan" text="Türkis" />
+        <text name="tpab_settings_msg_color_blue" text="Blau" />
+        <text name="tpab_settings_msg_color_purple" text="Violett" />
+        <text name="tpab_settings_msg_color_pink" text="Rosa" />
+        <text name="tpab_settings_msg_position_label" text="Meldungsposition" />
+        <text name="tpab_settings_msg_position_tooltip" text="Wo Bildschirmmeldungen von To Pasture and Back erscheinen." />
+        <text name="tpab_settings_msg_position_lower" text="Unteres Drittel" />
+        <text name="tpab_settings_msg_position_middle" text="Mitte" />
+        <text name="tpab_settings_msg_position_top" text="Oben" />
+        <text name="tpab_settings_msg_bg_label" text="Meldungshintergrund" />
+        <text name="tpab_settings_msg_bg_tooltip" text="Zeichnet eine Box hinter die Meldungen für bessere Lesbarkeit. Kombiniere eine helle Textfarbe mit einem dunklen Hintergrund." />
+        <text name="tpab_settings_msg_bg_off" text="Aus" />
+        <text name="tpab_settings_msg_bg_dark" text="Dunkel (transparent)" />
+        <text name="tpab_settings_msg_bg_opaque" text="Dunkel (deckend)" />
+        <text name="tpab_settings_msg_bg_rose" text="Rosa" />
+        <text name="tpab_settings_msg_bg_purple" text="Lila" />
+        <text name="tpab_settings_msg_bg_blue" text="Blau" />
+        <text name="tpab_settings_msg_bg_teal" text="Blaugrün" />
+        <text name="tpab_settings_warn_style_label" text="Warnungsstil" />
+        <text name="tpab_settings_warn_style_tooltip" text="Wie Ablehnungen angezeigt werden, etwa der Hinweis, wenn du eine Herde zu weit von einem Stall entfernt abholen willst. Wie Meldungen: in Größe, Farbe, Hintergrund und Position deiner Meldungen. FS25-Standard: die Warnanzeige des Spiels; deine Meldungseinstellungen gelten dafür nicht." />
+        <text name="tpab_settings_warn_style_same" text="Wie Meldungen" />
+        <text name="tpab_settings_warn_style_game" text="FS25-Standard" />
+        <text name="tpab_settings_curfew_label" text="Heimruf um %s" />
+        <text name="tpab_settings_curfew_tooltip" text="Wenn aktiviert, werden alle Tiere auf der Weide um %s Spielzeit automatisch zurückgerufen. Ein Sicherheitsnetz für vergessene Herden." />
+        <text name="tpab_settings_curfew_off" text="Aus" />
+        <text name="tpab_settings_curfew_on" text="An" />
+        <text name="tpab_curfew_recall_msg" text="Der Viehhüter hat alle Tiere für die Nacht von der Weide zurückgebracht." />
+        <text name="tpab_settings_fences_label" text="Weidezäune anzeigen" />
+        <text name="tpab_settings_fences_tooltip" text="Temporäre Zäune auf Weideflächen anzeigen. Nur visuell, beeinflusst die Herden nicht. Wird automatisch übersprungen, wenn die Fläche bereits einen eigenen Zaun hat." />
+        <text name="tpab_settings_fences_on" text="An" />
+        <text name="tpab_settings_fences_off" text="Aus" />
+        <text name="tpab_settings_poultry_label" text="Sichtbares Geflügel" />
+        <text name="tpab_settings_poultry_tooltip" text="Wie viele Vögel ein Geflügelstall zeigt. „Wie Herdentiere“ folgt der Einstellung für sichtbare Tiere von Realistic Livestock RM, und eine Zahl über dieser Einstellung zeigt die Zahl von Realistic Livestock RM. Weniger angezeigte Vögel ändern sonst nichts: Der Stall behält alle seine Tiere." />
+        <text name="tpab_settings_poultry_same" text="Wie Herdentiere" />
+        <text name="tpab_young_kept" text="%d Jungtiere blieben in %s, zu jung, um den Stall zu verlassen." />
+        <text name="tpab_young_kept_one" text="%d Jungtier blieb in %s, zu jung, um den Stall zu verlassen." />
+        <text name="tpab_not_grass_field" text="Das ist kein Grasfeld. Finde eine Weide mit wachsendem Gras für deine %s." />
+        <text name="tpab_growing_crop" text="Hier wachsen Feldfrüchte. Deine %s würden sie zerstören. Such eine Wiese oder Weide." />
+        <text name="tpab_field_mowed" text="Dieses Feld wurde gemäht. Finde eines mit wachsendem Gras für deine %s." />
+        <text name="tpab_just_planted" text="Diese Weide wurde gerade erst gesät. Lasse das Gras wachsen, bevor du deine %s herbringst." />
+        <text name="tpab_nothing_growing" text="Hier wächst nichts. Finde eine Weide für deine %s." />
+        <text name="tpab_pig_move_prompt" text="Schicke deine %s von %s auf ein gemähtes Feld oder Stoppelfeld. Gehe dorthin und drücke %s." />
+        <text name="tpab_pig_now_foraging" text="Deine %s aus %s sind jetzt{draußen}%s." />
+        <text name="tpab_pig_no_suitable_field" text="Schweine brauchen ein gemähtes Feld, ein Stoppelfeld oder offenen Boden (Brache, gepflügt oder gegrubbert). Finde eines für sie." />
+        <text name="tpab_pig_growing_crop" text="Hier wachsen Kulturen. Finde ein abgeerntetes Feld oder eine gemähte Weide für die Schweine." />
+        <text name="tpab_pig_dusk_single" text="Deine Schweine aus %s sind noch{draußen}%s. Vor Einbruch der Nacht mit %s zurückrufen?" />
+        <text name="tpab_pig_dusk_multi" text="%d Herden sind noch draußen. Vor Einbruch der Nacht mit %s zurückrufen?" />
+        <text name="tpab_field_too_small" text="Dieses Feld ist zu klein für %d Tiere. Suche dir eine größere Weide." />
+        <text name="tpab_no_animals_out" text="Im Moment sind keine Tiere auf der Weide." />
+        <text name="tpab_now_grazing" text="%s %s aus %s %s jetzt{draußen}%s." />
+        <text name="tpab_dest_no_pasture_graze" text="Ein Stall ist kein Ziel für einen Weidegang, und %s hat keine eigene Weide.\nUm sie hinauszubringen, gehe auf ein Feld oder eine Weide und drücke dort %s.\nUm sie in ihren Stall zurückzubringen, brich zuerst mit %s ab und drücke dann %s." />
+        <text name="tpab_dest_no_pasture_forage" text="Ein Stall ist kein Ziel für einen Weidegang, und %s hat keine eigene Weide.\nUm sie hinauszubringen, gehe auf ein Feld oder eine Weide und drücke dort %s.\nUm sie in ihren Stall zurückzubringen, brich zuerst mit %s ab und drücke dann %s." />
+        <text name="tpab_drop_more" text="Du transportierst noch %d weitere Herden. Drücke %s, um die nächste hier abzusetzen, oder bringe sie auf ein anderes Feld." />
+        <text name="tpab_drop_last" text="Das war die letzte Herde. Du transportierst keine Tiere mehr für diesen Weidegang." />
+        <text name="tpab_recall_returned" text="%s %s%s %s wieder in %s." />
+        <text name="tpab_all_returned" text="Alle Herden sind in ihre Ställe zurückgekehrt." />
+        <text name="tpab_all_returning" text="Alle Herden kehren in ihre Ställe zurück." />
+        <text name="tpab_returning_to_barn" text="%s %s auf {farmland} %d %s zum %s zurück." />
+        <text name="tpab_returning_home" text="%s %s auf %s %s zum Stall zurück." />
+        <text name="tpab_pasture_cancelled" text="Weidegang abgebrochen." />
+        <text name="tpab_no_pending_to_cancel" text="Keine ausstehende Weide-Aktion zum Abbrechen. Drücke %s, um eine Herde zurückzurufen, die bereits auf der Weide ist." />
+        <text name="tpab_moving_msg" text="Bringe %s %s aus %s auf die Weide. Gehe zu einem Feld und drücke %s." />
+        <text name="tpab_already_grazing_farmland" text="%s %s aus %s %s schon auf {farmland} %d." />
+        <text name="tpab_already_foraging_farmland" text="%s %s aus %s %s schon auf {farmland} %d." />
+        <text name="tpab_too_young" text="Die Tiere in %s sind zu jung, um den Stall zu verlassen. Sie müssen geschützt bleiben, bis sie älter sind." />
+        <text name="tpab_move_prompt" text="Schicke %s %s von %s auf ein Grasfeld oder eine Weide. Gehe dorthin und drücke %s." />
+        <text name="tpab_not_near_barn" text="Du bist nicht in der Nähe eines Stalls oder einer aktiven Weide. Begib dich auf %dm an einen Stall heran, um eine Herde zu sammeln, oder auf das Feld, auf dem eine Herde draußen ist, um sie zu verlegen." />
+        <text name="tpab_no_barn_on_map" text="Auf dieser Karte wurde kein Tierstall gefunden." />
+        <text name="tpab_someone_else_field" text="Herden kannst du nur auf dein eigenes Land bringen. Kaufe das Land oder gehe zu einem Feld, das du schon besitzt." />
+        <text name="tpab_barn_no_animals" text="%s hat keine Tiere." />
+        <text name="tpab_no_pending_grazing" text="Gehe zuerst zu einem Stall und drücke %s, um eine Herde zu sammeln." />
+        <text name="tpab_already_on_pasture" text="%s %s aus %s %s schon auf der Weide." />
+        <text name="tpab_already_foraging" text="%s %s aus %s %s schon draußen." />
+        <text name="tpab_status_entry" text="%s %s aus %s %s %s%s" />
+        <text name="tpab_place_at_farmland" text="bei %s auf {farmland} %d" />
+        <text name="tpab_place_at" text="bei %s" />
+        <text name="tpab_place_farmland" text="auf {farmland} %d" />
+        <text name="tpab_status_on_pasture" text="auf der Weide" />
+        <text name="tpab_status_on_field" text="{draußen}" />
+        <text name="tpab_status_pending_line" text="%d %s aus %s" />
+        <text name="tpab_rl_missing" text="To Pasture and Back (RL Edition) braucht Realistic Livestock RM. Installiere und aktiviere FS25_RealisticLivestockRM." />
+        <text name="tpab_init_pending" text="Tierstatus wird noch synchronisiert, bitte warten." />
+        <text name="tpab_class_mismatch" text="Schweine und andere Tiere können nicht zusammen eingesammelt werden. Bringe deine %s zu einem Feld und drücke %s, oder drücke %s zum Abbrechen." />
+        <text name="tpab_mixed_move_prompt" text="Bringe deine gemischte Herde zu einem Feld und drücke %s." />
+        <text name="tpab_mixed_now_grazing" text="Deine gemischte Herde ist jetzt{draußen}%s." />
+        <text name="tpab_additional_added" text="Weitere Tiere hinzugefügt." />
+        <text name="tpab_already_collected" text="Eine Herde aus %s ist bereits in der Warteschlange." />
+            <text name="tpab_move_pickup" text="%s aus %s von der Weide eingesammelt. Drücke %s an einem neuen Feld zum Verlegen." />
+            <text name="tpab_barn_locked_other" text="Die Herde aus %s wurde bereits von %s ausgewählt." />
+            <text name="tpab_move_pickup_mixed" text="%s aus %s von der Weide eingesammelt. Bringe deine gemischte Herde zu einem neuen Feld und drücke %s." />
+        <text name="tpab_move_no_barn" text="Herde kann nicht versetzt werden: Quellstall fehlt." />
+        <text name="tpab_move_no_cache" text="Herde kann nicht versetzt werden: Quellstall nicht mehr im Cache." />
+        <text name="tpab_sync_complete" text="%d Herden auf der Weide. %s drücken für Details." />
+        <text name="tpab_status_transporting" text="Du transportierst %d Herden. Bringe sie auf ein Grasfeld oder eine Weide. Gehe dorthin und drücke %s." />
+        <text name="tpab_status_transporting_forage" text="Du transportierst %d Herden. Bringe sie auf ein gemähtes Feld oder Stoppelfeld. Gehe dorthin und drücke %s." />
+        <text name="tpab_pocketed_reminder" text="Du transportierst noch %d Herden. Setze sie auf einem Feld ab oder brich ab, um sie zurückzubringen." />
+        <text name="tpab_drop_more_one" text="Du transportierst noch %d weitere Herde. Drücke %s, um sie hier abzusetzen, oder bringe sie auf ein anderes Feld." />
+            <text name="tpab_sync_complete_one" text="%d Herde auf der Weide. %s drücken für Details." />
+            <text name="tpab_status_transporting_one" text="Du transportierst %d Herde. Bringe sie auf ein Grasfeld oder eine Weide. Gehe dorthin und drücke %s." />
+            <text name="tpab_status_transporting_forage_one" text="Du transportierst %d Herde. Bringe sie auf ein gemähtes Feld oder Stoppelfeld. Gehe dorthin und drücke %s." />
+            <text name="tpab_pocketed_reminder_one" text="Du transportierst noch %d Herde. Setze sie auf einem Feld ab oder brich ab, um sie zurückzubringen." />
+            <text name="tpab_status_herds_out" text="%d Herden draußen:" />
+            <text name="tpab_status_herds_out_one" text="%d Herde draußen:" />
+            <text name="tpab_herd_out_elsewhere" text="Die Herde aus %s ist auf {farmland} %d. Gehe dorthin, um sie zu verlegen." />
+            <text name="tpab_herd_out_elsewhere_nf" text="Die Herde aus %s ist auf einer anderen Weide. Gehe dorthin, um sie zu verlegen." />
+        <text name="tpab_settings_confirm_label" text="Vor dem Zurückrufen bestätigen" />
+        <text name="tpab_settings_confirm_tooltip" text="Verlangt einen zweiten Druck der Rückruftaste, bevor Herden heimkehren. Der erste Druck zeigt, welche Herden heimkehren würden, und lässt Zeit zum Lesen und erneuten Drücken, mindestens 5 Sekunden." />
+        <text name="tpab_settings_confirm_off" text="Aus" />
+        <text name="tpab_settings_confirm_on" text="An" />
+        <text name="tpab_recall_confirm_one" text="Drücke %s innerhalb von %d s erneut, um die Herde aus %s heimzuholen." />
+        <text name="tpab_recall_confirm_all" text="Drücke %s innerhalb von %d s erneut, um alle %d Herden heimzuholen." />
+        <text name="input_KJHELP_TPABRL" text="Hilfe-Fenster der Kijbev-Mods" />
+        <text name="kjhelp_title" text="Zentrales Hilfe-Fenster von Kijbev Modding" />
+        <text name="kjhelp_empty" text="Keine Tastenbelegungen von Kijbev-Mods gefunden" />
+        <text name="kjhelp_subtitle" text="Tastenkürzel für alle aktiven Kijbev-Mods" />
+        <text name="kjhelp_close" text="öffnet/schließt dieses Fenster" />
+        <text name="kjhelp_close_plain" text="Drücke dieselbe Taste erneut, um dieses Fenster zu schließen." />
+        <text name="kjhelp_about" text="Bringt eine Herde vom Stall auf ein Feld oder eine Weide und wieder nach Hause, mit den einzelnen Tieren von Realistic Livestock RM." />
+        <text name="tpab_no_animals_out_but" text="Im Moment sind keine Tiere auf der Weide, aber %s transportiert gerade %d Herden." />
+        <text name="tpab_no_animals_out_but_one" text="Im Moment sind keine Tiere auf der Weide, aber %s transportiert gerade %d Herde." />
+        <text name="tpab_others_transporting" text="%s transportiert gerade %d Herden." />
+        <text name="tpab_others_transporting_one" text="%s transportiert gerade %d Herde." />
+    </texts>
+</l10n>
